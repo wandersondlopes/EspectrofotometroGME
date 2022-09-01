@@ -9,7 +9,6 @@
 **  cida ao usuario adaptada ao experimento de deteccao de cor de   **
 **  amostras para Quimica Analitica.                                **
 **                                                                  **
-**                                                           	      **
 **                                                                  **
 **                                                                  **
 **  https://wdldev.blogspot.com                                     **
