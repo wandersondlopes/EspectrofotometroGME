@@ -1,29 +1,18 @@
 /*********************************************************************
-**  Device: TSC230                                                  **
-**  File:   EF-TSC230.c                                             **
-**								    **
-**  Created by ElecFreaks Robi.W /6 Sep 2011                        **
+**  Device: TSC3200                                                 **
+**  File:   EspectrofotometroGME.ino                                **
+**								                                                  **
+**  Created by GME Wanderson D. Lopes /24 Apr 2016                  **
 **                                                                  **
 **  Description:                                                    **
-**  This file is a sample code for your reference.Just a demo for   **
-**  TSC230 Programmable Color Light-to-Frequency Converter Module.  **
-**                                                                  **
-**  This demo code is free software; you can redistribute it and/or **
-**  modify it under the terms of the GNU Lesser General Public	    **
-**  License as published by the Free Software Foundation; either    **	
-**  version 2.1 of the License, or (at your option)   		    **
-**  any later version.						    **
-**                                                                  **
-**  Copyright (C) 2011 ElecFreaks Corp.                     	    **
-**                                                                  **
-**                                                                  **
-**  http://www.elecfreaks.com                                       **
-**                                                                  **
-**  Implementacao: Grupo de Metodos Eletroforeticos - GME           **
-**                                                                  **
 **  Incorporacao de calibracao em tempo de execucao, tabela forne-  **
 **  cida ao usuario adaptada ao experimento de deteccao de cor de   **
 **  amostras para Quimica Analitica.                                **
+**                                                                  **
+**                                                           	      **
+**                                                                  **
+**                                                                  **
+**  https://wdldev.blogspot.com                                     **
 **                                                                  **
 *********************************************************************/
 
