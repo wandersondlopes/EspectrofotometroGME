@@ -1,7 +1,7 @@
 /*********************************************************************
 **  Device: TSC3200                                                 **
 **  File:   EspectrofotometroGME.ino                                **
-**								                                                  **
+**                                                                  **
 **  Created by GME Wanderson D. Lopes /24 Apr 2016                  **
 **                                                                  **
 **  Description:                                                    **
